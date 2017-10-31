@@ -11,14 +11,15 @@ Comprendre un tas d'objet qui nous entoure, tous ces capteurs, pour au final en 
 
 ### Matériel
 
-Un Arduino<br> 
-Un câble USB<br> 
-Un capteur de distance à ultrason<br> 
-LED RGB à cathodes communes<br>
-Une Breadboard<br> 
-3 Résistances 1/4W 270Ω ( 220Ω ou 330Ω peuvent également convenir)<br>
-Des fils de connexions<br>
-Un adaptateur 5V<br>
+Un Arduino	 6,65 EUR<br> 
+Un câble USB	2,68 EUR<br>                                         
+Un capteur de distance à ultrason	1,29 EUR<br>  
+Une LED	0,10 EUR<br> 
+Les résistances	0,10 EUR<br> 
+Une Breadboard	2,36 EUR<br>     
+Des fils de connexion	0,20 EUR<br> 
+Un adaptateur 5V	1,00 EUR<br>  
+Le TOTAL	14,38 EUR<br> 
 
 ![Matériel](Elements.jpg)
 
