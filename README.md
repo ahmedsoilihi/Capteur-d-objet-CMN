@@ -20,5 +20,6 @@ Une Breadboard<br>
 Des fils de connexions<br>
 Un adaptateur 5V<br>
 
+![Matériel](Elements.jpg)
 
 ### Logiciels
