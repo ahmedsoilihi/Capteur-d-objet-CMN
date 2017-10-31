@@ -26,7 +26,8 @@ Un adaptateur 5V-
 Cura pour l'imprimante 3D-
 Fritzing pour les schéma connectique-
 
-![Schéma](cura_1.PNG)(cura_2.PNG)-
+![Schéma](cura_1.PNG)
+![Schéma](cura_2.PNG)-
 ![Schéma](LED_RGB_US_Fritzing.png)-
 
 
