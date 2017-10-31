@@ -11,14 +11,14 @@ Savoir les bases de l'informatique.-
 
 ### Matériel
 
-Un Arduino-
-Un câble USB-                                         
-Un capteur de distance à ultrason-  
-Une LED- 
-Les résistances- 
-Une Breadboard-     
-Des fils de connexion- 
-Un adaptateur 5V-  
+Un Arduino	 6,65 EUR- 
+Un câble USB	2,68 EUR-                                        
+Un capteur de distance à ultrason	1,29 EUR- 
+Une LED	0,10 EUR-
+Les résistances	0,10 EUR-
+Une Breadboard	2,36 EUR-    
+Des fils de connexion	0,20 EUR-
+Un adaptateur 5V	1,00 EUR-   
 
 ![Matériel](Elements.jpg)
 
