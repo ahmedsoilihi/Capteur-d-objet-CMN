@@ -24,7 +24,9 @@ Un adaptateur 5V<br>
 
 ### Logiciels
 Cura pour l'imprimante 3D<br>
-Fritzing pour les schéma connectique<br> 
+Fritzing pour les schéma connectique<br>
+
+![Schéma](LED_RGB_US_Fritzing.png)
 
 
 
