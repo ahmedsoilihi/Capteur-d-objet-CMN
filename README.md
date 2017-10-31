@@ -3,28 +3,28 @@
 ![Capteur-d-objet-CMN](objet_fini.jpg)
 
 ## Présentation et objectifs
-Etre capable de réaliser un projet au sein d'un FABLAB en présentant un système automatiser à partir d'un Arduino. -
-Comprendre un tas d'objet qui nous entoure, tous ces capteurs, pour au final en creer un. -
+Etre capable de réaliser un projet au sein d'un FABLAB en présentant un système automatiser à partir d'un Arduino.<br> 
+Comprendre un tas d'objet qui nous entoure, tous ces capteurs, pour au final en creer un.<br>
 
 ## Pré-requis
-Savoir les bases de l'informatique. -
+Savoir les bases de l'informatique.<br> 
 
 ### Matériel
 
-Un Arduino	 6,65 EUR - 
-Un câble USB	2,68 EUR -                                        
-Un capteur de distance à ultrason	1,29 EUR - 
-Une LED	0,10 EUR -
-Les résistances	0,10 EUR -
-Une Breadboard	2,36 EUR -    
-Des fils de connexion	0,20 EUR -
-Un adaptateur 5V	1,00 EUR -   
+Un Arduino	 6,65 EUR<br> 
+Un câble USB	2,68 EUR<br>                                        
+Un capteur de distance à ultrason	1,29 EUR<br> 
+Une LED	0,10 EUR<br>
+Les résistances	0,10 EUR<br>
+Une Breadboard	2,36 EUR<br>    
+Des fils de connexion	0,20 EUR<br>
+Un adaptateur 5V	1,00 EUR<br>   
 
 ![Matériel](Elements.jpg)
 
 ### Logiciels
-Cura pour l'imprimante 3D -
-Fritzing pour les schéma connectique -
+Cura pour l'imprimante 3D<br>
+Fritzing pour les schéma connectique<br>
 
 ![Schéma](cura_1.PNG)
 ![Schéma](cura_2.PNG)
