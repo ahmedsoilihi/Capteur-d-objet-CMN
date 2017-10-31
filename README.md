@@ -19,6 +19,6 @@ Une Breadboard<br>
 3 Résistances 1/4W 270Ω ( 220Ω ou 330Ω peuvent également convenir)<br>
 Des fils de connexions<br>
 Un adaptateur 5V<br>
-!(Elements.jpg)<br>
+
 
 ### Logiciels
